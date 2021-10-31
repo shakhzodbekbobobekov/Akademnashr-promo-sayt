@@ -1,7 +1,10 @@
+/* SITE-HEADER */
 .site-header {
     background-color: #fff;
 }
 
+
+/* sitenav */
 .sitenav-list {
     list-style: none;
 }
@@ -18,6 +21,7 @@
     text-decoration: none;
 }
 
+/* main-link */
 .main-link {
     background-color: #ff7500;
     font-style: normal;
@@ -28,6 +32,7 @@
     color: #FFFFFF;
 }
 
+/* hero */
 .hero {
     background-color: #252420;
     color: #fff;
@@ -92,6 +97,7 @@
     letter-spacing: 0.5px;
 }
 
+/* proma */
 .promo {
     background-color: #252420;
     color: #fff;
