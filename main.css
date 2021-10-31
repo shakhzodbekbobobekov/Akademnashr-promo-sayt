@@ -1,0 +1,148 @@
+.site-header {
+    background-color: #fff;
+}
+
+.sitenav-list {
+    list-style: none;
+}
+
+.sitenav-link {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+    text-decoration: none;
+}
+
+.main-link {
+    background-color: #ff7500;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+}
+
+.hero {
+    background-color: #252420;
+    color: #fff;
+}
+
+.hero-content {
+    width: 390px; /* height ayrim hollarda beriladi  */
+    
+}
+
+.hero-line {
+    width: 80px;
+    height: 3px;
+    background-color: #ff7500;
+}
+
+.hero-heading {
+    font-size: 40px;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+}
+
+.hero-text {
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    line-height: 1.5;
+}
+
+.hero-img {
+    width: 510px;
+    height: 510px; 
+}
+
+/* features*/
+
+.features-heading {
+    width: 440px;
+    font-size: 72px;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+}
+
+.feature {
+    width: 340px;
+}
+
+.feature-icon-wrapper {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(225, 117, 0, 0.2);
+}
+
+.feature-heading {
+    font-size: 24px;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+}
+
+.feature-heading {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+}
+
+.promo {
+    background-color: #252420;
+    color: #fff;
+}
+
+.promo-content {
+    width: 440px;
+}
+
+.promo-heading {
+    font-size: 40px;
+    line-height: 48px;
+}
+
+.promo-text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.promo-highlight {
+    color: #ff7500;
+}
+
+.promo-img {
+    width: 440px;
+    height: 440px;
+    object-fit: cover;
+}
+
+/* FOOTER */
+.site-footer {
+    background-color: #f8f8f8;
+}
+
+.site-footer ul {
+    list-style: none;
+}
+
+.site-footer-divider {
+    background: rgba(37, 36, 32, 0.5);
+    width: 1100px;
+    height: 2px;
+}
+
+.site-footer-links {
+    width: 224px;
+}
+
+.site-footer-links a {
+    text-decoration: none;
+    color: #252420;
+    font-size: 16px;
+    line-height: 19px;
+}
