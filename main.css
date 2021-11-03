@@ -213,8 +213,9 @@ body {
 }
 
 .feature-info {
-    font-size: 24px;
+    font-size: 16px;
     line-height: 1.2;
+    letter-spacing: 0.5px;
     font-family: "Roboto Condensed", "Roboto", "Arial", sans-serif;
     margin: 0;
 }
